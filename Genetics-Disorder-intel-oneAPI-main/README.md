@@ -2,7 +2,8 @@
   <div id="header" align="center">
  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
    
-   <iframe src="https://giphy.com/embed/s1IJ0L8hZ4wms" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+   <img>="![dna](https://user-images.githubusercontent.com/97892948/227795819-bcbc8ae3-892c-45a8-9ab1-1dbb0ea5ffd8.jpg)</img>
+
   
   
 </div>
