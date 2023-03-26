@@ -1,6 +1,6 @@
   
   <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/s1IJ0L8hZ4wms" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dna-s1IJ0L8hZ4wms">via GIPHY</a></p>" width="1000"/>
+  <iframe src="https://giphy.com/embed/s1IJ0L8hZ4wms" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dna-s1IJ0L8hZ4wms"></a></p>" width="1000"/>
 </div>
   
   
