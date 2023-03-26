@@ -16,7 +16,7 @@
  
   
  <h1>
-  INSPIRATION
+  INSPIRATION ( ͡❛ ͜ʖ ͡❛)
 </h1>
 
 
@@ -73,4 +73,4 @@ Genetic disorder are the result of mutation in the deoxyribonucleic acid (DNA) s
 
 ✅Collaboration: Building a project like this likely required collaboration with a team of experts in various fields, such as medical science, machine learning, and data analysis, and I likely learned the importance of working together to achieve common goals.
 
-These are just a few examples of the knowledge and skills that i likely gained while building this project. Overall, building a crop recommendation application is a challenging and rewarding experience that requires a combination of technical expertise and agricultural knowledge.
+These are just a few examples of the knowledge and skills that i likely gained while building this project.
