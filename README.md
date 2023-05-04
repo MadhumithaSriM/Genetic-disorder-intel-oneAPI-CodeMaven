@@ -1,7 +1,7 @@
 
 ## Genetic-disorders-intel-oneAPI-CodeMaven
 
-🌟Submission for Intel OneAPI CodeMaven by TechGig 🌟
+🌟Submission for **Intel OneAPI CodeMaven** by **TechGig** 🌟
 
 
 
