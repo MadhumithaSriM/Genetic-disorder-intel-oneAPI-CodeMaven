@@ -33,6 +33,11 @@
 - The performance of **XGB** is much better than state-of-the-art approaches, in terms of both performance and **computational complexity**.
 
 
+
+![Logo](https://user-images.githubusercontent.com/72274851/220701473-50f303b3-449b-419e-8567-ea84a7cd7dde.png)
+
+
+
 ## Instructions to run it
 
 1. Download my `Zip File`
