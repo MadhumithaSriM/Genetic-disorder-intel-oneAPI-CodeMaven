@@ -35,21 +35,21 @@
 
 ## Instructions to run it
 
-Download my `Zip File`
+1. Download my `Zip File`
 
-`Extract` the downloaded file
+2. Extract` the downloaded file
 
-Download current version `Python`
+3. Download current version `Python`
 
-Install **Jupyter Notebook**
+4. Install **Jupyter Notebook**
 
-`jupyter notebook`
+5. jupyter notebook`
 
-You can see a file names as `Predict genetic disorder.ipynb`
+6. You can see a file names as `Predict genetic disorder.ipynb`
 
-Run the file in `localhost:8888`
+7. Run the file in `localhost:8888`
 
-You will get the **output**
+8. You will get the **output**
 
 
 
