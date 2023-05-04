@@ -42,17 +42,17 @@
 
 1. Download my `Zip File`
 
-2. Extract` the downloaded file
+2. `Extract` the downloaded file
 
 3. Download current version `Python`
 
 4. Install **Jupyter Notebook**
 
-5. jupyter notebook`
+5. `jupyter notebook`
 
 6. You can see a file names as `Predict genetic disorder.ipynb`
 
-7. Run the file in `localhost:8888`
+7. Run the file in `localhost:8888` in Jupter Notebook
 
 8. You will get the **output**
 
