@@ -4,6 +4,7 @@
 🌟Submission for Intel OneAPI CodeMaven by TechGig 🌟
 
 
+![Intel oneAPI](https://www.intel.com/content/dam/develop/public/us/en/images/thumbnails/tool-thumbnail-beta-oneapi-logo.jpg)
 
 ## Video
 
