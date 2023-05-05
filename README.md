@@ -109,6 +109,10 @@ Building application using **intel oneDAL**:
 - Building a project like this likely required collaboration with a team of experts in various fields, such as **medical science, machine learning, and data analysis**, and I learned the importance of working together to achieve common goals.
 
 
+## Screenshots
+
+![App Screenshot](https://postimg.cc/3WVY0rh7)
+
 
 
 
