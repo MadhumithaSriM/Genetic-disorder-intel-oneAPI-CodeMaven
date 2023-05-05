@@ -5,6 +5,12 @@
 
 
 
+## Video
+
+ - [Link to my Demo Video](https://drive.google.com/drive/folders/1CRQ6AfFVjR-ZyVAOWJ62N4ihyBRx86A5?usp=sharing)
+
+
+
 ## Problem 3: Healthcare for underserved communities
 
 
@@ -111,7 +117,8 @@ Building application using **intel oneDAL**:
 
 ## Screenshots
 
-![App Screenshot]([![ss1.png](https://i.postimg.cc/L66X7h0q/ss1.png)](https://postimg.cc/3WVY0rh7))
+![App Screenshot](https://ibb.co/vxbJ3f1)
+
 
 
 
