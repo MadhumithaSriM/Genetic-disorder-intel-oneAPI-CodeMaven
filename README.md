@@ -7,7 +7,7 @@
 
 ## Video
 
- - `[Link to my Demo Video]`(https://drive.google.com/drive/folders/1CRQ6AfFVjR-ZyVAOWJ62N4ihyBRx86A5?usp=sharing)
+ - [Link to my Demo Video](https://drive.google.com/drive/folders/1CRQ6AfFVjR-ZyVAOWJ62N4ihyBRx86A5?usp=sharing)
 
 
 
@@ -117,10 +117,13 @@ Building application using **intel oneDAL**:
 
 ## Screenshots
 
-- `https://drive.google.com/file/d/1J3DIjO2ThR4zIkBs-nEb-9jW2YXaHsx5/view?usp=sharing)`
-- `https://drive.google.com/file/d/16xg_Zma9DVxmMGlLVL49_BdhpQDAUnUS/view?usp=sharing`
-- `https://drive.google.com/file/d/1jDN66-aMPv1r4uyzhDxmtTtM_8_Mv4FK/view?usp=sharing`
-- `https://drive.google.com/file/d/1TAvlXtFxFpUza5Mzd8eQBgrZkkDE11cL/view?usp=sharing`
+-  [pip install](https://drive.google.com/file/d/1J3DIjO2ThR4zIkBs-nEb-9jW2YXaHsx5/view?usp=sharing)
+
+- [Importing Libraries](https://drive.google.com/file/d/16xg_Zma9DVxmMGlLVL49_BdhpQDAUnUS/view?usp=sharing)
+
+- [Splitting the data](https://drive.google.com/file/d/1jDN66-aMPv1r4uyzhDxmtTtM_8_Mv4FK/view?usp=sharing)
+
+- [Output](https://drive.google.com/file/d/1TAvlXtFxFpUza5Mzd8eQBgrZkkDE11cL/view?usp=sharing)
 
 
 
