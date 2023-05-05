@@ -9,7 +9,11 @@
 ## Video
 
  - [Link to my Demo Video](https://drive.google.com/drive/folders/1CRQ6AfFVjR-ZyVAOWJ62N4ihyBRx86A5?usp=sharing)
+ 
+ 
+## Medium Blog
 
+ - [Link to my Medium Blog](https://medium.com/@madhumithasri/genetic-disorders-intel-one-api-codemaven-hackathon-d822619a08aa)
 
 
 ## Problem 3: Healthcare for underserved communities
