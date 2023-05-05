@@ -117,7 +117,7 @@ Building application using **intel oneDAL**:
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1J3DIjO2ThR4zIkBs-nEb-9jW2YXaHsx5/view?usp=sharing)
+!https://drive.google.com/file/d/1J3DIjO2ThR4zIkBs-nEb-9jW2YXaHsx5/view?usp=sharing)
 
 
 
