@@ -81,7 +81,7 @@
 
 
 
-## Libaries Used
+## Libraries Used
 
 - ### Intel oneDAL
 
