@@ -51,25 +51,25 @@
 
 ## Instructions to run it
 
-1. Download my code from GitHub in `Zip File`.
+1. Download my code from GitHub in `Zip File`
 
-2. `Extract` the downloaded file.
+2. `Extract` the downloaded file
 
-3. Download the current version of `Python`.
+3. Download the current version of `Python`
 
-4. Install **Jupyter Notebook**.
+4. Install **Jupyter Notebook**
 
-5. In the file's command terminal type `jupyter notebook`.
+5. In the file's command terminal type `jupyter notebook`
 
-6. You will be redirected to Jupyter notebook home page (localhost).
+6. You will be redirected to Jupyter notebook home page (localhost)
 
-7. You can see a file names as `Predict genetic disorder.ipynb` in the Jupyter notebook page.
+7. You can see a file names as `Predict genetic disorder.ipynb` in the Jupyter notebook page
 
-8. Open the `file`.
+8. Open the `file`
 
-9. The file will run in `localhost` in Jupter Notebook.
+9. The file will run in `localhost` in Jupter Notebook
 
-10. You can see the **output** of the code in the localhost.
+10. You can see the **output** of the code in the localhost
 
 
 
