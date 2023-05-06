@@ -57,11 +57,11 @@
 
 3. Download the current version of `Python`
 
-4. Install **Jupyter Notebook**
+4. Install `**Jupyter Notebook**`
 
 5. In the file's command terminal type `jupyter notebook`
 
-6. You will be redirected to Jupyter notebook home page (localhost)
+6. You will be redirected to `Jupyter notebook home page (localhost)`
 
 7. You can see a file names as `Predict genetic disorder.ipynb` in the Jupyter notebook page
 
