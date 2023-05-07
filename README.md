@@ -89,6 +89,12 @@
 
 - **XGBoost --> 75.45 %**
 
+## Performance Evaluation
+
+- Multi-label multi-class data
+- Macro accuracy 
+- Hamming loss 
+- α-evaluation score
 
 
 ## Libraries Used
