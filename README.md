@@ -57,7 +57,7 @@
 
 3. Download the current version of `Python`
 
-4. Install `**Jupyter Notebook**`
+4. Install `Jupyter Notebook`
 
 5. In the file's command terminal type `jupyter notebook`
 
