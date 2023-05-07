@@ -91,10 +91,27 @@
 
 ## Performance Evaluation
 
-- Multi-label multi-class data
-- Macro accuracy 
-- Hamming loss 
-- α-evaluation score
+- **Multi-label multi-class data**
+
+- **Macro accuracy**
+
+- **Hamming loss** 
+
+- **α-evaluation score**
+
+## Algorithms used
+
+- **Adapted algorithm**
+
+- **Extra tree algorithm**
+
+- **Random forests algorithm**
+
+- **Bresenham's Line Generated Algorithm (y=y+1; p=p+2*dy-2*dx)**
+
+- **Decision tree algorithm**
+
+
 
 
 ## Libraries Used
